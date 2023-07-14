@@ -1,4 +1,4 @@
-<p style="font-size:24px">👋 Hi, I’m @Razvan.</p>
+- 👋 Hi, I’m @Razvan.
 - 🔭 I’m currently working on a lot of different stuff.
 - 🌱 I’m currently learning everything I can get my hands on.
 - 👀 I’m interested in finding more time in a single day.
